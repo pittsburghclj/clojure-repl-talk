@@ -1,0 +1,12 @@
+{
+  "name": "Clojure - Using a REPL",
+  "sections": [
+    {"section":"intro"},
+    {"section":"repl"},
+    {"section":"local"},
+    {"section":"vim"},
+    {"section":"emacs"},
+    {"section":"remote"},
+    {"section":"end"}
+  ]
+}
